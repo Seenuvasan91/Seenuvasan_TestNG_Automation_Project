@@ -1,5 +1,3 @@
-# Seenuvasan_TestNG_Automation_Project
-
 # 🔧 Selenium TestNG Automation Framework
 
 A scalable, modular, and extensible **Test Automation Framework** built using **Selenium WebDriver**, **TestNG**, **Maven**, and **Java**. This framework was developed and maintained by **Seenuvasan Velmurugan**, tailored for rapid UI regression testing, cross-browser validations, and CI/CD integration.
@@ -46,27 +44,27 @@ QA Automation Engineer | ISTQB Certified | PSM II | PSPO II
 
 ## 📂 Project Structure
 
+```
 selenium-testng-framework/
 │
-├── testng.xml # TestNG suite configuration
-├── pom.xml # Maven build configuration
+├── testng.xml                   # TestNG suite configuration
+├── pom.xml                      # Maven build configuration
 ├── src/
-│ ├── main/
-│ │ └── java/
-│ │ └── com/seenuvasan/framework/
-│ │ ├── base/ # Base test classes and drivers
-│ │ ├── pages/ # Page object classes
-│ │ └── utils/ # Utilities (e.g., wait, config, constants)
-│ └── test/
-│ └── java/
-│ └── com/seenuvasan/tests/
-│ └── tests/ # Test case implementations
-├── test-output/ # ExtentReports output
-└── README.md # Project documentation
+│   ├── main/
+│   │   └── java/
+│   │       └── com/seenuvasan/framework/
+│   │           ├── base/       # Base test classes and drivers
+│   │           ├── pages/      # Page object classes
+│   │           └── utils/      # Utilities (e.g., wait, config, constants)
+│   └── test/
+│       └── java/
+│           └── com/seenuvasan/tests/
+│               └── tests/      # Test case implementations
+├── test-output/                # ExtentReports output
+└── README.md                   # Project documentation
+```
 
-yaml
-Copy
-Edit
+
 
 ---
 
