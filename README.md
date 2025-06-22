@@ -2,6 +2,8 @@
 
 A scalable, modular, and extensible **Test Automation Framework** built using **Selenium WebDriver**, **TestNG**, **Maven**, and **Java**. This framework was developed and maintained by **Seenuvasan Velmurugan**, tailored for rapid UI regression testing, cross-browser validations, and CI/CD integration.
 
+This project was executed as part of a freelance engagement for an organization based in Toronto, Canada, demonstrating independent ownership, global collaboration, and production-grade test automation delivery.
+
 ---
 
 ## 👨‍💻 Author
